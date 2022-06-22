@@ -1,0 +1,22 @@
+# Editor backup files
+*~
+*.save
+\#*\#
+.*.swp
+
+# Python cache
+__pycache__
+*.py[cdo]
+
+# pyenv
+.python-version
+
+# pywidevine
+pywidevine/cdm/devices/*/
+pywidevine/cdm/deviceconfig.py
+
+# huludl-specific
+temp
+output
+huludl.cfg
+cookies*.txt
