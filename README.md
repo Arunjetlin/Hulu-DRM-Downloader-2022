@@ -25,3 +25,7 @@ Private L1
 
 1. Install the requirements above, place the binaries in your PATH.
 2. Clone the GitHub repo or download a zip of it
+
+
+
+[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?...)
